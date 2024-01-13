@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682036188 source:c:\users\richard antwi\desktop\c++\palindrime\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+
